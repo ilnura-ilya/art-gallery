@@ -34,7 +34,7 @@ function App() {
         <h1>КАРТИНЫ</h1>
       </div>
       <div className='container'>
-        <h1>{id} - {artist}</h1>
+        <h2>{id} - {artist}</h2>
       </div>
       <div className='container imageDiv'>
         <img src={image} alt="artImage" width="400px"/>

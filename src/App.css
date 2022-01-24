@@ -20,7 +20,7 @@ img{
 
 h1, h2{
   font-family: 'Overpass', sans-serif;
-  font-size: 28px;
+  font-size: 36px;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   background-clip: text;
@@ -49,7 +49,7 @@ h2{
     width: 300px;
   }
   h1{
-    font-size: 20px;
+    font-size: 28px;
     
   }
   h2{
